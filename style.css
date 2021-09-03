@@ -393,11 +393,12 @@ body{
     color:black;
 }
 .about-ul1{
+     padding:0px;
     font-size: 20px;
   
 }
 .about-ul2{
-    padding:0px;
+   
     font-size: 19px;
 }
 
