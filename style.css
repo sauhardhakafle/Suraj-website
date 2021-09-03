@@ -100,7 +100,7 @@ body{
         width:300px;
         background-color: #202020;
         margin:0px;
-        height:97vh;
+        height:92vh;
         /* height:90vh; */
         position:absolute;
         z-index:999; 
@@ -397,6 +397,7 @@ body{
   
 }
 .about-ul2{
+    padding:0px;
     font-size: 19px;
 }
 
@@ -624,7 +625,7 @@ body{
 
 }
 #footer-ul{
-
+    padding:0px;
     list-style-type: none;
 }
 
