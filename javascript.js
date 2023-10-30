@@ -10,7 +10,6 @@ function barfun(){
     bar.style.display = "none";
     cross.style.display = "block";
      body.classList.add("scrolling");
-
 }
 
 function crossfun(){
